@@ -7,7 +7,7 @@ public class Demo1 {
 			System.out.println("f**k");
 			System.out.println("---");
 		}
-		System.out.println("²âÊÔ..");
+		System.out.println("æµ‹è¯•..");
 	}
 	
 }
